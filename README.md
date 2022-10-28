@@ -1,4 +1,4 @@
-### Oie! Me chamo Emilly! ✨
+### Hi! My name's Emilly! ✨
 <hr>
 <div style="display: inline_block"><br>
 :computer: - Estudante de Engenharia de Software na Cruzeiro do Sul<br>
